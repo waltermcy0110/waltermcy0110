@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 ---
 
 <h2> 👨🏻‍💻 &nbsp;Some information about me:</h2>
+
 - Name: Chun Yin (Walter) Mak / chunyin.mak@mail.utoronto.ca
+
 - Education: Currently a Math & CS undergraduate at the University of Toronto

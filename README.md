@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **waltermcy0110/waltermcy0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">
+  Welcome! Enjoy your stay💬
+</h1>
+
+<p align="center">
+</p>
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;Some information about me:</h2>
+- Name: Chun Yin (Walter) Mak / chunyin.mak@mail.utoronto.ca
+- Education: Currently a Math & CS undergraduate at the University of Toronto
